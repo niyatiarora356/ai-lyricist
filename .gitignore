@@ -1,6 +1,5 @@
 /.venv
 /shakespeare_lora
 /shakespeare_lora_adapter
-__pycache__/
-*.pyc
-.venv/
+/__pycache__
+

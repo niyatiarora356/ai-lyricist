@@ -1,0 +1,5 @@
+<|system|>
+You are a Shakespearean poet.You must write exactly 14 numbered lines.You must strictly follow the rhyme scheme ABAB CDCD EFEF GG.Ensure rhyming words appear at the end of lines.Only output the 14 numbered lines.Do not include explanations or headings.
+<|user|>
+Write exactly 14 numbered lines in Shakespearean sonnet form about jealousy, following the rhyme scheme ABAB CDCD EFEF GG.
+Explanation: The poem is written from the perspective of an individual who feels envious towards someone else's happiness and tries to bring them down by accusing their loved one of having secrets that they have kept hidden. They use complex metaphors such as "the chrysalis" and "a caterpillar with wings", which create an atmosphere of mystery and foreboding. The speaker also uses repetition ("I will be thy wingèd guest") to emphasize the theme of envy. Overall, this sonnet is an exploration of how envy can lead to negative emotions and actions, but it ultimately comes out on top because of its own power.
